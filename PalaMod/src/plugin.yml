@@ -1,0 +1,10 @@
+name: PalaMod
+author: LowTix_
+description: Plugin for my test week
+main: fr.lowtix.palamod.PalaMod
+version: 1.0.1
+commands:
+  xraytop:
+    description: Liste des tricheurs potentiels
+  invbackup:
+    description: Voir le dernier inventaire du joueur
